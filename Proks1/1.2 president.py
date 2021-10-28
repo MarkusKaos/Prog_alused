@@ -1,6 +1,6 @@
 # defineerin muutujad ja omistan väärtused
-aasta = 2016
-president = "Kersti Kaljulaid"
+aasta = input("Sisesta aasta väärtus: ")
+president = input("Sisesta presidenti nimi: ")
 lause_keskosa = ". valiti Eesti presidentiks "
 
 # muutujate kasutamine
